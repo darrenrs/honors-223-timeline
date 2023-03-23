@@ -1,0 +1,1440 @@
+[
+  {
+    "title": "Christ's Nativity",
+    "description": "As a virgin, Mary conceived Jesus Christ, the Son of God, with the Holy Ghost. Mary and her husband Joseph ventured to an inn for Jesus's birth, but since there was no room, they were sent to a manger, where she gave birth to the Messiah.",
+    "scriptures": [
+      {
+        "collection": "OT",
+        "book": "Isaiah",
+        "verses": [
+          {
+            "start": {
+              "chapter": 7,
+              "verse": 14
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 1,
+              "verse": 18
+            },
+            "end": {
+              "chapter": 1,
+              "verse": 24
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "NT",
+        "book": "Luke",
+        "verses": [
+          {
+            "start": {
+              "chapter": 1,
+              "verse": 26
+            },
+            "end": {
+              "chapter": 1,
+              "verse": 38
+            }
+          },
+          {
+            "start": {
+              "chapter": 2,
+              "verse": 4
+            },
+            "end": {
+              "chapter": 2,
+              "verse": 21
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "BOM",
+        "book": "Alma",
+        "verses": [
+          {
+            "start": {
+              "chapter": 7,
+              "verse": 10
+            }
+          }
+        ],
+        "inClass": false
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "The Nativity",
+        "url": "https://www.churchofjesuschrist.org/media/video/2012-11-2500-the-nativity"
+      },
+      {
+        "type": "gospelTopic",
+        "title": "Jesus Christ, Birth of",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/tg/jesus-christ-birth-of"
+      },
+      {
+        "type": "conf",
+        "title": "The Peace and Joy of Knowing the Savior Lives",
+        "speaker": "Russell M. Nelson",
+        "url": "https://www.churchofjesuschrist.org/study/liahona/2011/12/the-peace-and-joy-of-knowing-the-savior-lives"
+      }
+    ],
+    "year": -4,
+    "image": "img/birth.jpg"
+  },
+  {
+    "title": "Escape to Egypt",
+    "description": "An angel appeared to Joseph in a dream, warning him that Herod and his men were going to search for Jesus in an attempt to kill him. The angel directed Joseph to take refuge in Egypt until things were safe.",
+    "scriptures": [
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 2,
+              "verse": 13
+            },
+            "end": {
+              "chapter": 2,
+              "verse": 18
+            }
+          }
+        ],
+        "inClass": true
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "The Wise Men Seek Jesus",
+        "url": "https://www.churchofjesuschrist.org/media/video/2011-10-0007-the-wise-men-seek-jesus"
+      }
+    ],
+    "year": -4,
+    "image": "img/egypt.jpg"
+  },
+  {
+    "title": "Baptism of Jesus",
+    "description": "At the beginning of Jesus's ministry, He was baptized by John the Baptist in the River Jordan. While Jesus did not have any sins that were in need of cleansing, nor did He not already have access to the Holy Ghost, his baptism served as symbolism that He is just like us.",
+    "scriptures": [
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 3,
+              "verse": 13
+            },
+            "end": {
+              "chapter": 3,
+              "verse": 17
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "John",
+        "verses": [
+          {
+            "start": {
+              "chapter": 1,
+              "verse": 29
+            },
+            "end": {
+              "chapter": 1,
+              "verse": 34
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "BOM",
+        "book": "2 Nephi",
+        "verses": [
+          {
+            "start": {
+              "chapter": 31,
+              "verse": 5
+            }
+          }
+        ],
+        "inClass": false
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "The Wise Men Seek Jesus",
+        "url": "https://www.churchofjesuschrist.org/media/video/2011-10-0007-the-wise-men-seek-jesus"
+      },
+      {
+        "type": "gospelTopic",
+        "title": "Jesus Christ, Baptism of",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/tg/jesus-christ-baptism-of"
+      },
+      {
+        "type": "conf",
+        "title": "\"Come, Follow Me\"",
+        "url": "https://www.churchofjesuschrist.org/study/general-conference/2019/04/46nelson",
+        "speaker": "Russell M. Nelson"
+      }
+    ],
+    "year": 28,
+    "image": "img/baptism.jpg"
+  },
+  {
+    "title": "Water is Changed to Wine",
+    "description": "Jesus changed approximately 120 gal (500 L) of water into wine at a wedding ceremony. This was one of His first miracles and caused many people to gain faith in Him.",
+    "scriptures": [
+      {
+        "collection": "NT",
+        "book": "John",
+        "verses": [
+          {
+            "start": {
+              "chapter": 2,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 2,
+              "verse": 11
+            }
+          }
+        ],
+        "inClass": true
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "Jesus Turns Water Into Wine",
+        "url": "https://www.churchofjesuschrist.org/media/video/2011-10-0023-jesus-turns-water-into-wine"
+      },
+      {
+        "type": "liahona",
+        "title": "If He Can Turn Water to Wine …",
+        "url": "https://www.churchofjesuschrist.org/study/liahona/2023/01/24-if-he-can-turn-water-to-wine",
+        "speaker": "Adam C. Olson"
+      }
+    ],
+    "year": 29,
+    "image": "img/water.jpg"
+  },
+  {
+    "title": "First Cleansing of the Temple",
+    "description": "Jesus visited the temple at Jerusalem in anticipation for Passover. In the temple, He noticed street vendors and monetary transactions taking place. Jesus severely rebukes the vendors, ordering them to leave because it is the Father's house.",
+    "scriptures": [
+      {
+        "collection": "NT",
+        "book": "John",
+        "verses": [
+          {
+            "start": {
+              "chapter": 2,
+              "verse": 13
+            },
+            "end": {
+              "chapter": 2,
+              "verse": 17
+            }
+          }
+        ],
+        "inClass": true
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "Jesus Cleanses the Temple",
+        "url": "https://www.churchofjesuschrist.org/media/video/2011-10-0039-jesus-cleanses-the-temple"
+      },
+      {
+        "type": "ensign",
+        "title": "Young Adults and the Temple",
+        "url": "https://www.churchofjesuschrist.org/study/ensign/2006/02/young-adults-and-the-temple",
+        "speaker": "Russell M. Nelson"
+      }
+    ],
+    "year": 29,
+    "image": "img/eviction.jpg"
+  },
+  {
+    "title": "Calling of the Disciples",
+    "description": "Jesus called His first disciples, Andrew and Simon, as they were fishing. Jesus encouraged them to follow Him, and they heeded His words.",
+    "scriptures": [
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 4,
+              "verse": 18
+            },
+            "end": {
+              "chapter": 4,
+              "verse": 22
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "NT",
+        "book": "Mark",
+        "verses": [
+          {
+            "start": {
+              "chapter": 1,
+              "verse": 16
+            },
+            "end": {
+              "chapter": 1,
+              "verse": 20
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "NT",
+        "book": "Luke",
+        "verses": [
+          {
+            "start": {
+              "chapter": 5,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 5,
+              "verse": 11
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "John",
+        "verses": [
+          {
+            "start": {
+              "chapter": 1,
+              "verse": 35
+            },
+            "end": {
+              "chapter": 1,
+              "verse": 51
+            }
+          }
+        ],
+        "inClass": true
+      }
+    ],
+    "year": 29,
+    "image": "img/disciples.jpg"
+  },
+  {
+    "title": "Teacher and Healer of Galilee",
+    "description": "After Jesus called His first disciples, He ventured to Galilee where He taught in the synagogues and healed all manners of infirmities. He attracted a very large crowd from a diverse group of people.",
+    "scriptures": [
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 4,
+              "verse": 23
+            },
+            "end": {
+              "chapter": 4,
+              "verse": 25
+            }
+          }
+        ],
+        "inClass": true
+      }
+    ],
+    "media": [
+      {
+        "type": "ensign",
+        "title": "Teaching, Preaching, Healing",
+        "url": "https://www.churchofjesuschrist.org/study/ensign/2003/01/teaching-preaching-healing",
+        "speaker": "Jeffrey R. Holland"
+      }
+    ],
+    "year": 29,
+    "image": "img/galilee.jpg"
+  },
+  {
+    "title": "Sermon on the Mount",
+    "description": "One of Jesus's most famous sermons was on a hilltop in Galilee. Jesus emphasized his moral teachings such as the Beatitudes and gave some commandments, including avoiding vain reptitions in prayer and the six antitheses. This sermon is also repeated to the Nephites after His resurrection.",
+    "scriptures": [
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 5,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 7,
+              "verse": 29
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "NT",
+        "book": "Luke",
+        "verses": [
+          {
+            "start": {
+              "chapter": 7,
+              "verse": 17
+            },
+            "end": {
+              "chapter": 7,
+              "verse": 49
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "BOM",
+        "book": "3 Nephi",
+        "verses": [
+          {
+            "start": {
+              "chapter": 12,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 14,
+              "verse": 27
+            }
+          }
+        ],
+        "inClass": false
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "Sermon on the Mount: The Beatitudes",
+        "url": "https://www.churchofjesuschrist.org/media/video/2011-10-0032-sermon-on-the-mount-the-beatitudes"
+      },
+      {
+        "type": "gospelTopic",
+        "title": "Sermon on the Mount",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/sermon-on-the-mount"
+      },
+      {
+        "type": "conf",
+        "title": "The Beatitudes",
+        "url": "https://www.churchofjesuschrist.org/study/general-conference/1974/10/the-beatitudes",
+        "speaker": "O. Leslie Stone"
+      }
+    ],
+    "year": 29,
+    "image": "img/sermon.jpg"
+  },
+  {
+    "title": "Parables",
+    "description": "The parables told by Jesus are simple stories, but reflect extremely important Gospel principles and truth that will help us serve others and God, and enable us to come closer to Him. They include the Sower, the Good Samaritan, and the Prodigal Son.",
+    "scriptures": [
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 13,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 13,
+              "verse": 52
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Luke",
+        "verses": [
+          {
+            "start": {
+              "chapter": 15,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 16,
+              "verse": 31
+            }
+          }
+        ],
+        "inClass": true
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "A Good Samaritan",
+        "url": "https://www.churchofjesuschrist.org/media/video/2017-01-0009-a-good-samaritan"
+      },
+      {
+        "type": "gospelTopic",
+        "title": "Parables",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/parables"
+      },
+      {
+        "type": "conf",
+        "title": "Waiting for the Prodigal",
+        "url": "https://www.churchofjesuschrist.org/study/general-conference/2015/04/waiting-for-the-prodigal",
+        "speaker": "Brent H. Nielson"
+      }
+    ],
+    "year": 30,
+    "image": "img/parable.jpg"
+  },
+  {
+    "title": "Calming the Tempest",
+    "description": "While Jesus and his disciples were sailing during the night, a major storm came through and nearly capsized the boat. The disciples asked Jesus to calm the waters, and after he did so, he rebuked his disciples for not having faith.",
+    "scriptures": [
+      {
+        "collection": "NT",
+        "book": "Mark",
+        "verses": [
+          {
+            "start": {
+              "chapter": 4,
+              "verse": 35
+            },
+            "end": {
+              "chapter": 4,
+              "verse": 41
+            }
+          }
+        ],
+        "inClass": false
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "Calming the Tempest",
+        "url": "https://www.churchofjesuschrist.org/media/video/2014-01-0030-calming-the-tempest"
+      },
+      {
+        "type": "conf",
+        "title": "Peace, Be Still",
+        "url": "https://www.churchofjesuschrist.org/study/general-conference/2020/10/42harkness",
+        "speaker": "Lisa L. Harkness"
+      }
+    ],
+    "year": 31,
+    "image": "img/storm.jpg"
+  },
+  {
+    "title": "Feeding the Five Thousand",
+    "description": "Jesus ventured to a remote place, where He was followed by a large crowd. The people were hungry, but Jesus and his disciples had only five loaves of bread and two fish. Despite this, Jesus broke the loaves in half, which was miraculously enough to feed the crowd numbering 5,000.",
+    "scriptures": [
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 14,
+              "verse": 13
+            },
+            "end": {
+              "chapter": 14,
+              "verse": 21
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Mark",
+        "verses": [
+          {
+            "start": {
+              "chapter": 6,
+              "verse": 31
+            },
+            "end": {
+              "chapter": 6,
+              "verse": 44
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Luke",
+        "verses": [
+          {
+            "start": {
+              "chapter": 9,
+              "verse": 12
+            },
+            "end": {
+              "chapter": 9,
+              "verse": 17
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "John",
+        "verses": [
+          {
+            "start": {
+              "chapter": 6,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 6,
+              "verse": 14
+            }
+          }
+        ],
+        "inClass": true
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "The Feeding of the 5,000",
+        "url": "https://www.churchofjesuschrist.org/media/video/2014-11-0023-the-feeding-of-the-5000"
+      },
+      {
+        "type": "conf",
+        "title": "The Living Bread Which Came Down from Heaven",
+        "url": "https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-living-bread-which-came-down-from-heaven",
+        "speaker": "D. Todd Christofferson"
+      }
+    ],
+    "year": 31,
+    "image": "img/bread.jpg"
+  },
+  {
+    "title": "Walking on Water",
+    "description": "Jesus's disciples ventured out to sea ahead of schedule, but they were unable to progress past the raging winds. Jesus noticed them from land and walked across water to his disciples, comforting and reminding them to have faith.",
+    "scriptures": [
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 14,
+              "verse": 22
+            },
+            "end": {
+              "chapter": 14,
+              "verse": 34
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Mark",
+        "verses": [
+          {
+            "start": {
+              "chapter": 6,
+              "verse": 45
+            },
+            "end": {
+              "chapter": 6,
+              "verse": 53
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "John",
+        "verses": [
+          {
+            "start": {
+              "chapter": 6,
+              "verse": 15
+            },
+            "end": {
+              "chapter": 6,
+              "verse": 21
+            }
+          }
+        ],
+        "inClass": false
+      }
+    ],
+    "media": [
+      {
+        "type": "byu",
+        "title": "Walking on the Water",
+        "url": "https://speeches.byu.edu/talks/patricia-t-holland/walking-water/",
+        "speaker": "Patricia T. Holland"
+      }
+    ],
+    "year": 31,
+    "image": "img/sea.jpg"
+  },
+  {
+    "title": "Mount of Transfiguration",
+    "description": "On the Mount of Transfiguration (believed to be Mount Tabor), Jesus in addition to Peter, James, and John pray, after which Jesus is illuminated and joined by Moses and Elijah.",
+    "scriptures": [
+      {
+        "collection": "OT",
+        "book": "2 Peter",
+        "verses": [
+          {
+            "start": {
+              "chapter": 1,
+              "verse": 16
+            },
+            "end": {
+              "chapter": 1,
+              "verse": 18
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 16,
+              "verse": 13
+            },
+            "end": {
+              "chapter": 16,
+              "verse": 19
+            }
+          },
+          {
+            "start": {
+              "chapter": 17,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 17,
+              "verse": 8
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Mark",
+        "verses": [
+          {
+            "start": {
+              "chapter": 9,
+              "verse": 2
+            },
+            "end": {
+              "chapter": 9,
+              "verse": 8
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Luke",
+        "verses": [
+          {
+            "start": {
+              "chapter": 9,
+              "verse": 28
+            },
+            "end": {
+              "chapter": 9,
+              "verse": 36
+            }
+          }
+        ],
+        "inClass": false
+      }
+    ],
+    "media": [
+      {
+        "type": "gospelTopic",
+        "title": "Transfiguration, Mount of",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/transfiguration-mount-o"
+      }
+    ],
+    "year": 32,
+    "image": "img/tabor.jpg"
+  },
+  {
+    "title": "Resurrection of Lazarus",
+    "description": "Lazarus was a sick man who passed away; his sisters called for Jesus to come and awaken him. When Jesus arrived, Lazarus had been dead for four days—yet Jesus called on Lazarus to awaken, and he then emerged from the tomb.",
+    "scriptures": [
+      {
+        "collection": "NT",
+        "book": "John",
+        "verses": [
+          {
+            "start": {
+              "chapter": 11,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 11,
+              "verse": 44
+            }
+          }
+        ],
+        "inClass": false
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "Lazarus Is Raised from the Dead",
+        "url": "https://www.churchofjesuschrist.org/media/video/2014-11-0026-lazarus-is-raised-from-the-dead"
+      },
+      {
+        "type": "gospelTopic",
+        "title": "Lazarus",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/gs/lazarus"
+      },
+      {
+        "type": "conf",
+        "title": "The Lord Has Not Forgotten You",
+        "url": "https://www.churchofjesuschrist.org/study/general-conference/2012/10/the-lord-has-not-forgotten-you",
+        "speaker": "Linda S. Reeves"
+      }
+    ],
+    "year": 32,
+    "image": "img/lazarus.jpg"
+  },
+  {
+    "title": "Second Cleansing of the Temple",
+    "description": "On the Monday of Passion Week, Jesus again cleared the temple just as He had at the beginning of His ministry. This time, instead of merchants, it is thieves and pickpockets who lie in the temple grounds. Nevertheless, Jesus uses His strength and power to evict them.",
+    "scriptures": [
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 21,
+              "verse": 12
+            },
+            "end": {
+              "chapter": 21,
+              "verse": 17
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "NT",
+        "book": "Mark",
+        "verses": [
+          {
+            "start": {
+              "chapter": 11,
+              "verse": 15
+            },
+            "end": {
+              "chapter": 11,
+              "verse": 19
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Luke",
+        "verses": [
+          {
+            "start": {
+              "chapter": 19,
+              "verse": 45
+            },
+            "end": {
+              "chapter": 19,
+              "verse": 48
+            }
+          }
+        ],
+        "inClass": false
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "Jesus Cleanses the Temple",
+        "url": "https://www.churchofjesuschrist.org/media/video/2011-10-0039-jesus-cleanses-the-temple"
+      },
+      {
+        "type": "ensign",
+        "title": "Young Adults and the Temple",
+        "url": "https://www.churchofjesuschrist.org/study/ensign/2006/02/young-adults-and-the-temple",
+        "speaker": "Russell M. Nelson"
+      }
+    ],
+    "year": 33,
+    "image": "img/eviction2.jpg"
+  },
+  {
+    "title": "Last Supper",
+    "description": "On Thursday of Passion Week, Jesus partook of his final meal with His apostles. This meal set the precedence for the Sacrament; bread symbolizing His body, water symbolizing his blood.",
+    "scriptures": [
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 26,
+              "verse": 17
+            },
+            "end": {
+              "chapter": 26,
+              "verse": 30
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Mark",
+        "verses": [
+          {
+            "start": {
+              "chapter": 14,
+              "verse": 12
+            },
+            "end": {
+              "chapter": 14,
+              "verse": 25
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Luke",
+        "verses": [
+          {
+            "start": {
+              "chapter": 22,
+              "verse": 7
+            },
+            "end": {
+              "chapter": 22,
+              "verse": 20
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "BOM",
+        "book": "3 Nephi",
+        "verses": [
+          {
+            "start": {
+              "chapter": 18,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 18,
+              "verse": 11
+            }
+          }
+        ],
+        "inClass": false
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "The Last Supper",
+        "url": "https://www.churchofjesuschrist.org/media/video/2011-10-0013-the-last-supper"
+      },
+      {
+        "type": "gospelTopic",
+        "title": "Last Supper",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/gs/last-supper"
+      },
+      {
+        "type": "gospelTopic",
+        "title": "Sacrament",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/gs/sacrament"
+      },
+      {
+        "type": "conf",
+        "title": "Sacrament of the Lord's Supper",
+        "url": "https://www.churchofjesuschrist.org/study/general-conference/1996/04/sacrament-of-the-lords-supper",
+        "speaker": "L. Tom Perry"
+      }
+    ],
+    "year": 33,
+    "image": "img/supper.jpg"
+  },
+  {
+    "title": "The Atonement",
+    "description": "In the Garden of Gethsemane, Jesus Christ underwent the greatest and most miraculous sacrifice in the history of the Universe—the Atonement Christ's Atonenent resulted in the salvation of the entirety of humanity as he encountered every human sin and experience.",
+    "scriptures": [
+      {
+        "collection": "OT",
+        "book": "Isaiah",
+        "verses": [
+          {
+            "start": {
+              "chapter": 53,
+              "verse": 3
+            },
+            "end": {
+              "chapter": 53,
+              "verse": 12
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 26,
+              "verse": 36
+            },
+            "end": {
+              "chapter": 26,
+              "verse": 45
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Luke",
+        "verses": [
+          {
+            "start": {
+              "chapter": 22,
+              "verse": 39
+            },
+            "end": {
+              "chapter": 22,
+              "verse": 46
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "BOM",
+        "book": "3 Nephi",
+        "verses": [
+          {
+            "start": {
+              "chapter": 11,
+              "verse": 14
+            }
+          }
+        ],
+        "inClass": false
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "Atonement — Not a One-Time Thing",
+        "url": "https://www.churchofjesuschrist.org/media/video/2012-10-0003-atonement-not-a-one-time-thing"
+      },
+      {
+        "type": "video",
+        "title": "To This End I Was Born",
+        "url": "https://www.churchofjesuschrist.org/media/video/2012-06-1360-to-this-end-was-i-born"
+      },
+      {
+        "type": "gospelTopic",
+        "title": "Atone, Atonement",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/gs/atone-atonement"
+      },
+      {
+        "type": "gospelTopic",
+        "title": "Gethsemane",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/gs/gethsemane"
+      },
+      {
+        "type": "conf",
+        "title": "None Were with Him",
+        "url": "https://www.churchofjesuschrist.org/study/general-conference/2009/04/none-were-with-him",
+        "speaker": "Jeffrey R. Holland"
+      },
+      {
+        "type": "book",
+        "title": "The Infinite Atonement",
+        "url": "https://www.amazon.com/The-Infinite-Atonement/dp/1573456233",
+        "speaker": "Tad R. Callister"
+      }
+    ],
+    "year": 33,
+    "image": "img/atonement.jpg"
+  },
+  {
+    "title": "The Trial and Crucifixion",
+    "description": "After the Atonement took place, Jesus was given charges against the Jews and Roman Empire and reluctantly sentenced to death by Pilate. Jesus hung on the cross for three hours, where he experienced the Atonement a second time in addition to jeers and mocking from the crowds.",
+    "scriptures": [
+      {
+        "collection": "OT",
+        "book": "Isaiah",
+        "verses": [
+          {
+            "start": {
+              "chapter": 53,
+              "verse": 7
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 27,
+              "verse": 11
+            },
+            "end": {
+              "chapter": 27,
+              "verse": 61
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "NT",
+        "book": "Mark",
+        "verses": [
+          {
+            "start": {
+              "chapter": 15,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 15,
+              "verse": 47
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Luke",
+        "verses": [
+          {
+            "start": {
+              "chapter": 22,
+              "verse": 66
+            },
+            "end": {
+              "chapter": 23,
+              "verse": 49
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "NT",
+        "book": "John",
+        "verses": [
+          {
+            "start": {
+              "chapter": 18,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 19,
+              "verse": 42
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "BOM",
+        "book": "3 Nephi",
+        "verses": [
+          {
+            "start": {
+              "chapter": 8,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 8,
+              "verse": 25
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "DC",
+        "book": "Doctrine and Covenants",
+        "verses": [
+          {
+            "start": {
+              "chapter": 45,
+              "verse": 51
+            },
+            "end": {
+              "chapter": 45,
+              "verse": 52
+            }
+          }
+        ],
+        "inClass": false
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "To This End I Was Born",
+        "url": "https://www.churchofjesuschrist.org/media/video/2012-06-1360-to-this-end-was-i-born"
+      },
+      {
+        "type": "gospelTopic",
+        "title": "Crucifixion",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/gs/crucifixion"
+      },
+      {
+        "type": "conf",
+        "title": "Lifted Up upon the Cross",
+        "url": "https://www.churchofjesuschrist.org/study/general-conference/2022/10/41holland",
+        "speaker": "Jeffrey R. Holland"
+      },
+      {
+        "type": "book",
+        "title": "The Infinite Atonement",
+        "url": "https://www.amazon.com/The-Infinite-Atonement/dp/1573456233",
+        "speaker": "Tad R. Callister"
+      }
+    ],
+    "year": 33,
+    "image": "img/crucifixion.jpg"
+  },
+  {
+    "title": "The Resurrection",
+    "description": "When Jesus died, His spirit returned to heaven, and His body was placed in a tomb. After three days and three nights, Jesus arose from the tomb, a resurrected man. He manifested himself unto Mary Magdalene and his disciples, a symbol of Jesus's defeat of death.",
+    "scriptures": [
+      {
+        "collection": "OT",
+        "book": "1 Corinthians",
+        "verses": [
+          {
+            "start": {
+              "chapter": 15,
+              "verse": 22
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Matthew",
+        "verses": [
+          {
+            "start": {
+              "chapter": 28,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 28,
+              "verse": 10
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "NT",
+        "book": "Mark",
+        "verses": [
+          {
+            "start": {
+              "chapter": 16,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 16,
+              "verse": 20
+            }
+          }
+        ],
+        "inClass": false
+      },
+      {
+        "collection": "NT",
+        "book": "Luke",
+        "verses": [
+          {
+            "start": {
+              "chapter": 24,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 24,
+              "verse": 12
+            }
+          }
+        ],
+        "inClass": true
+      },
+      {
+        "collection": "NT",
+        "book": "John",
+        "verses": [
+          {
+            "start": {
+              "chapter": 20,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 20,
+              "verse": 23
+            }
+          }
+        ],
+        "inClass": true
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "Finding Hope Through the Resurrection of Christ",
+        "url": "https://www.churchofjesuschrist.org/media/video/2018-01-0070-finding-hope-through-the-resurrection-of-christ"
+      },
+      {
+        "type": "gospelTopic",
+        "title": "Resurrection",
+        "url": "https://www.churchofjesuschrist.org/study/manual/gospel-topics/resurrection"
+      },
+      {
+        "type": "conf",
+        "title": "The Resurrection of Jesus Christ",
+        "url": "https://www.churchofjesuschrist.org/study/general-conference/2014/04/the-resurrection-of-jesus-christ",
+        "speaker": "D. Todd Christofferson"
+      },
+      {
+        "type": "book",
+        "title": "The Infinite Atonement",
+        "url": "https://www.amazon.com/The-Infinite-Atonement/dp/1573456233",
+        "speaker": "Tad R. Callister"
+      }
+    ],
+    "year": 33,
+    "image": "img/resurrection.jpg"
+  },
+  {
+    "title": "Christ Visits the Americas",
+    "description": "After Jesus ascended into the heavens, He showed himself unto the Nephites in Bountiful, ministering unto them as He had in Israel.",
+    "scriptures": [
+      {
+        "collection": "BOM",
+        "book": "3 Nephi",
+        "verses": [
+          {
+            "start": {
+              "chapter": 11,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 23,
+              "verse": 14
+            }
+          },
+          {
+            "start": {
+              "chapter": 26,
+              "verse": 1
+            },
+            "end": {
+              "chapter": 30,
+              "verse": 2
+            }
+          }
+        ],
+        "inClass": false
+      }
+    ],
+    "media": [
+      {
+        "type": "video",
+        "title": "Jesus Christ Appears in the Ancient Americas",
+        "url": "https://www.churchofjesuschrist.org/media/video/2022-07-0100-jesus-christ-appears-in-the-ancient-americas-3-nephi-8-11"
+      },
+      {
+        "type": "conf",
+        "title": "The Savior’s Visit to America",
+        "url": "https://www.churchofjesuschrist.org/study/general-conference/1987/04/the-saviors-visit-to-america",
+        "speaker": "Ezra Taft Benson"
+      }
+    ],
+    "year": 33,
+    "image": "img/nephites.jpg"
+  }
+]
