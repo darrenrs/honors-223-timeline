@@ -1,5 +1,5 @@
 const getData = async() => {
-  return await fetch('/data.json')
+  return await fetch('./data.json')
   .then((response) => {
     if (response.status === 200) {
       return response.json()
