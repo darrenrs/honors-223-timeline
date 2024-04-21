@@ -115,3 +115,13 @@
     left: 0%;
   }
 }
+
+.background-lit {
+  background: rgb(255,255,255);
+  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,204,204,0.6012998949579832) 20%, rgba(255,0,0,0.40242034313725494) 100%);
+}
+
+.background-cs {
+  background: rgb(255,255,255);
+  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(204,204,255,0.6) 20%, rgba(0,0,255,0.4) 100%);
+}
